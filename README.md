@@ -17,4 +17,4 @@ First Automation Test Framework based on Selenium WebDriver in Java
   
 -Test Case Layer
 
-  --Container for Test Case Execution
+  --Engine for Test Case Execution
